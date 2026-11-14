@@ -29,16 +29,34 @@ Ce lien donne toujours la dernière version. Ouvrez-le **depuis le téléphone**
      retrouver vos recettes si vous changez de téléphone.
    - Vous aviez déjà un compte : touchez **J'ai déjà un compte** (voir plus bas).
 
-Une fois l'application installée, vous pouvez désactiver « Autoriser cette source » si vous
-le souhaitez ; il faudra la réactiver pour chaque mise à jour.
+Une fois l'application installée, vous pouvez désactiver « Autoriser cette source » pour
+votre navigateur ou l'application Fichiers. Pour BiblioRecette elle-même, gardez-la : c'est
+elle qui installe les mises à jour.
 
 ## Mettre à jour
 
-Quand une nouvelle version sort, l'écran d'accueil de l'application affiche
-« Nouvelle version … disponible ». Touchez **Télécharger**, ouvrez le fichier, puis touchez
-**Mettre à jour**. Vos recettes et votre compte restent : rien à refaire.
+Les mises à jour se font **depuis l'application** (à partir de la version 2.6.0) :
 
-Vous pouvez aussi, à tout moment, rouvrir le lien de téléchargement ci-dessus.
+1. Quand une nouvelle version sort, une fenêtre **« Mise à jour disponible »** s'ouvre sur
+   l'écran d'accueil, avec ce qui change. Touchez **Mettre à jour** (ou **Plus tard** : elle
+   reviendra le lendemain, et la ligne « Nouvelle version … disponible » de l'accueil a aussi
+   un bouton **Mettre à jour**).
+2. La première fois seulement, le téléphone demande d'autoriser BiblioRecette à installer
+   des applications : touchez **Ouvrir le réglage**, activez **Autoriser cette source**,
+   puis revenez dans l'application.
+3. L'application télécharge la mise à jour (environ 80 Mo, mieux vaut être en Wi-Fi) et
+   vérifie que c'est bien le fichier publié ici.
+4. Le téléphone demande « Mettre à jour cette application ? » : touchez **Mettre à jour**.
+   C'est normal, il le demande toujours pour une application qui ne vient pas du Play Store.
+
+Vos recettes et votre compte restent : rien à refaire.
+
+En cas de souci, la fenêtre propose **Télécharger dans le navigateur** : ouvrez le fichier
+téléchargé, puis touchez **Mettre à jour**, comme pour l'installation. Vous pouvez aussi, à
+tout moment, rouvrir le lien de téléchargement ci-dessus.
+
+*Version 2.5.0* : elle n'affiche que « Nouvelle version … disponible » et **Télécharger** ;
+cette fois-là, la mise à jour se fait par le navigateur.
 
 ## ⚠️ Changement de signature : une seule fois, pour ceux qui avaient déjà l'application
 
